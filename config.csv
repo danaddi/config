@@ -1,0 +1,5 @@
+timestamp,user,command,path,result
+2024-11-26 10:00,user1,ls,/home,user1@localhost: files.txt, directory1
+2024-11-26 10:02,user1,cd,/home,Current directory to /home
+2024-11-26 10:05,user1,touch,/home/newfile.txt,Created new file /home/newfile.txt
+2024-11-26 10:10,user1,rm,/home/oldfile.txt,Deleted file /home/oldfile.txt
